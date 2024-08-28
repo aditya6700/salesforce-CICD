@@ -3300,7 +3300,7 @@
         <default>false</default>
         <label>Zipcom</label>
     </customValue>
-    <description>BTLB Opportunity &amp; Lead attribute.If the value &quot;To competitor&quot; is selected from the field &quot;Sub Stage&quot; then this field becomes mandatory</description>
+    <description>Opportunity &amp; Lead attribute.If the value &quot;To competitor&quot; is selected from the field &quot;Sub Stage&quot; then this field becomes mandatory</description>
     <masterLabel>Main Competitor</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
