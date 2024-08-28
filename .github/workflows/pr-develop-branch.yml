@@ -56,16 +56,16 @@ jobs:
           sfdx sgd:source:delta --to "HEAD" --from "HEAD^" --output changed-sources/ --generate-delta --source force-app/
 
       # Step 6: Deploy the metadata to the Salesforce org
-      # If the env variable does not equal 'all' run specified tests 
+      # If the secrets variable does not equal 'all' run specified tests 
       - name: 'Check-only deploy delta changes - run specified tests'
-        if: ${{ env.APEX_TESTS != 'all' }}
+        if: ${{ secrets.APEX_TESTS != 'all' }}
         run: |
-          echo ${{env.APEX_TESTS}}
-          sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunSpecifiedTests --runtests ${{env.APEX_TESTS}} --json
+          echo ${{secrets.APEX_TESTS}}
+          sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunSpecifiedTests --runtests ${{secrets.APEX_TESTS}} --json
 
-      # If the env variable equals all, we run all tests
+      # If the secrets variable equals all, we run all tests
       - name: 'Check-only deploy delta changes - run all tests'
-        if: ${{ env.APEX_TESTS == 'all' }}
+        if: ${{ secrets.APEX_TESTS == 'all' }}
         run: |
             sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunLocalTests  --json
 
