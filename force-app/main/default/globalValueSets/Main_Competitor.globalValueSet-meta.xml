@@ -1,0 +1,3306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Current Supplier</fullName>
+        <default>false</default>
+        <label>Current Supplier</label>
+    </customValue>
+    <customValue>
+        <fullName>No Competitor</fullName>
+        <default>false</default>
+        <label>No Competitor</label>
+    </customValue>
+    <customValue>
+        <fullName>No Service</fullName>
+        <default>false</default>
+        <label>No Service</label>
+    </customValue>
+    <customValue>
+        <fullName>Not Known - Customer Withheld</fullName>
+        <default>false</default>
+        <label>Not Known - Customer Withheld</label>
+    </customValue>
+    <customValue>
+        <fullName>Not within this list</fullName>
+        <default>false</default>
+        <label>Not within this list</label>
+    </customValue>
+    <customValue>
+        <fullName>Provider Not Listed</fullName>
+        <default>false</default>
+        <label>Provider Not Listed</label>
+    </customValue>
+    <customValue>
+        <fullName>Undisclosed Competitor</fullName>
+        <default>false</default>
+        <label>Undisclosed Competitor</label>
+    </customValue>
+    <customValue>
+        <fullName>Unknown</fullName>
+        <default>false</default>
+        <label>Unknown</label>
+    </customValue>
+    <customValue>
+        <fullName>08 Numbers</fullName>
+        <default>false</default>
+        <label>08 Numbers</label>
+    </customValue>
+    <customValue>
+        <fullName>123 Telecom</fullName>
+        <default>false</default>
+        <label>123 Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>186k</fullName>
+        <default>false</default>
+        <label>186k</label>
+    </customValue>
+    <customValue>
+        <fullName>21CN Telecoms</fullName>
+        <default>false</default>
+        <label>21CN Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>21st Century telecom</fullName>
+        <default>false</default>
+        <label>21st Century telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>3</fullName>
+        <default>false</default>
+        <label>3</label>
+    </customValue>
+    <customValue>
+        <fullName>360 Solutions</fullName>
+        <default>false</default>
+        <label>360 Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>360 Telecom</fullName>
+        <default>false</default>
+        <label>360 Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>3C Telecom</fullName>
+        <default>false</default>
+        <label>3C Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>42 Copyright Cavell Group</fullName>
+        <default>false</default>
+        <label>42 Copyright Cavell Group</label>
+    </customValue>
+    <customValue>
+        <fullName>4Com</fullName>
+        <default>false</default>
+        <label>4Com</label>
+    </customValue>
+    <customValue>
+        <fullName>4U Corporate</fullName>
+        <default>false</default>
+        <label>4U Corporate</label>
+    </customValue>
+    <customValue>
+        <fullName>6 Degrees</fullName>
+        <default>false</default>
+        <label>6 Degrees</label>
+    </customValue>
+    <customValue>
+        <fullName>8x8</fullName>
+        <default>false</default>
+        <label>8x8</label>
+    </customValue>
+    <customValue>
+        <fullName>Abbacca</fullName>
+        <default>false</default>
+        <label>Abbacca</label>
+    </customValue>
+    <customValue>
+        <fullName>Abc International</fullName>
+        <default>false</default>
+        <label>Abc International</label>
+    </customValue>
+    <customValue>
+        <fullName>Abtec Network Systems</fullName>
+        <default>false</default>
+        <label>Abtec Network Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>Accent Telecom</fullName>
+        <default>false</default>
+        <label>Accent Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Actimax</fullName>
+        <default>false</default>
+        <label>Actimax</label>
+    </customValue>
+    <customValue>
+        <fullName>Activ</fullName>
+        <default>false</default>
+        <label>Activ</label>
+    </customValue>
+    <customValue>
+        <fullName>Activ8</fullName>
+        <default>false</default>
+        <label>Activ8</label>
+    </customValue>
+    <customValue>
+        <fullName>Acuity Networks Limited</fullName>
+        <default>false</default>
+        <label>Acuity Networks Limited</label>
+    </customValue>
+    <customValue>
+        <fullName>Adam Farm</fullName>
+        <default>false</default>
+        <label>Adam Farm</label>
+    </customValue>
+    <customValue>
+        <fullName>Adept Telecom Plc</fullName>
+        <default>false</default>
+        <label>Adept Telecom Plc</label>
+    </customValue>
+    <customValue>
+        <fullName>ADK Telecoms</fullName>
+        <default>false</default>
+        <label>ADK Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Admiral</fullName>
+        <default>false</default>
+        <label>Admiral</label>
+    </customValue>
+    <customValue>
+        <fullName>Adodo</fullName>
+        <default>false</default>
+        <label>Adodo</label>
+    </customValue>
+    <customValue>
+        <fullName>Advance Telecom</fullName>
+        <default>false</default>
+        <label>Advance Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Aerophone</fullName>
+        <default>false</default>
+        <label>Aerophone</label>
+    </customValue>
+    <customValue>
+        <fullName>Affiniti</fullName>
+        <default>false</default>
+        <label>Affiniti</label>
+    </customValue>
+    <customValue>
+        <fullName>Affinity</fullName>
+        <default>false</default>
+        <label>Affinity</label>
+    </customValue>
+    <customValue>
+        <fullName>Aggregate Telecoms</fullName>
+        <default>false</default>
+        <label>Aggregate Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Aionix</fullName>
+        <default>false</default>
+        <label>Aionix</label>
+    </customValue>
+    <customValue>
+        <fullName>Airlink</fullName>
+        <default>false</default>
+        <label>Airlink</label>
+    </customValue>
+    <customValue>
+        <fullName>A K Communications</fullName>
+        <default>false</default>
+        <label>A K Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>AllwaysON</fullName>
+        <default>false</default>
+        <label>AllwaysON</label>
+    </customValue>
+    <customValue>
+        <fullName>Alternative Networks</fullName>
+        <default>false</default>
+        <label>Alternative Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Amcall Communications</fullName>
+        <default>false</default>
+        <label>Amcall Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Anglia Telecom</fullName>
+        <default>false</default>
+        <label>Anglia Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Annodata</fullName>
+        <default>false</default>
+        <label>Annodata</label>
+    </customValue>
+    <customValue>
+        <fullName>Antrapenure Telecom</fullName>
+        <default>false</default>
+        <label>Antrapenure Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>App</fullName>
+        <default>false</default>
+        <label>App</label>
+    </customValue>
+    <customValue>
+        <fullName>Ardencom</fullName>
+        <default>false</default>
+        <label>Ardencom</label>
+    </customValue>
+    <customValue>
+        <fullName>Ario Data Networks</fullName>
+        <default>false</default>
+        <label>Ario Data Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Armadillo Solutions</fullName>
+        <default>false</default>
+        <label>Armadillo Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Ascom</fullName>
+        <default>false</default>
+        <label>Ascom</label>
+    </customValue>
+    <customValue>
+        <fullName>Astra</fullName>
+        <default>false</default>
+        <label>Astra</label>
+    </customValue>
+    <customValue>
+        <fullName>AT&amp;T</fullName>
+        <default>false</default>
+        <label>AT&amp;T</label>
+    </customValue>
+    <customValue>
+        <fullName>AT Communications</fullName>
+        <default>false</default>
+        <label>AT Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>ATC Sterry</fullName>
+        <default>false</default>
+        <label>ATC Sterry</label>
+    </customValue>
+    <customValue>
+        <fullName>A Tel</fullName>
+        <default>false</default>
+        <label>A Tel</label>
+    </customValue>
+    <customValue>
+        <fullName>Atex</fullName>
+        <default>false</default>
+        <label>Atex</label>
+    </customValue>
+    <customValue>
+        <fullName>Atlantic Telecoms</fullName>
+        <default>false</default>
+        <label>Atlantic Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Atos origin</fullName>
+        <default>false</default>
+        <label>Atos origin</label>
+    </customValue>
+    <customValue>
+        <fullName>Aurora</fullName>
+        <default>false</default>
+        <label>Aurora</label>
+    </customValue>
+    <customValue>
+        <fullName>AvcOne</fullName>
+        <default>false</default>
+        <label>AvcOne</label>
+    </customValue>
+    <customValue>
+        <fullName>Avoco</fullName>
+        <default>false</default>
+        <label>Avoco</label>
+    </customValue>
+    <customValue>
+        <fullName>Azzuri</fullName>
+        <default>false</default>
+        <label>Azzuri</label>
+    </customValue>
+    <customValue>
+        <fullName>Backbone</fullName>
+        <default>false</default>
+        <label>Backbone</label>
+    </customValue>
+    <customValue>
+        <fullName>Bailey Telecom</fullName>
+        <default>false</default>
+        <label>Bailey Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Barker Telecom</fullName>
+        <default>false</default>
+        <label>Barker Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Barrington Technology</fullName>
+        <default>false</default>
+        <label>Barrington Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>BDR Networks</fullName>
+        <default>false</default>
+        <label>BDR Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Beanstalk</fullName>
+        <default>false</default>
+        <label>Beanstalk</label>
+    </customValue>
+    <customValue>
+        <fullName>Belvoir Telecom</fullName>
+        <default>false</default>
+        <label>Belvoir Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Ben Alliance Telecoms</fullName>
+        <default>false</default>
+        <label>Ben Alliance Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Between The Lines</fullName>
+        <default>false</default>
+        <label>Between The Lines</label>
+    </customValue>
+    <customValue>
+        <fullName>Beyond Telecommunications</fullName>
+        <default>false</default>
+        <label>Beyond Telecommunications</label>
+    </customValue>
+    <customValue>
+        <fullName>Bistech</fullName>
+        <default>false</default>
+        <label>Bistech</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Back Communications</fullName>
+        <default>false</default>
+        <label>Blue Back Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Bluebell</fullName>
+        <default>false</default>
+        <label>Bluebell</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Sky</fullName>
+        <default>false</default>
+        <label>Blue Sky</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Square</fullName>
+        <default>false</default>
+        <label>Blue Square</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Telecom</fullName>
+        <default>false</default>
+        <label>Blue Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Blue Yonder</fullName>
+        <default>false</default>
+        <label>Blue Yonder</label>
+    </customValue>
+    <customValue>
+        <fullName>BNS</fullName>
+        <default>false</default>
+        <label>BNS</label>
+    </customValue>
+    <customValue>
+        <fullName>Britannia Telecom</fullName>
+        <default>false</default>
+        <label>Britannia Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Britannic Technologies</fullName>
+        <default>false</default>
+        <label>Britannic Technologies</label>
+    </customValue>
+    <customValue>
+        <fullName>British Gas</fullName>
+        <default>false</default>
+        <label>British Gas</label>
+    </customValue>
+    <customValue>
+        <fullName>Broadsoft (Broadcloud)</fullName>
+        <default>false</default>
+        <label>Broadsoft (Broadcloud)</label>
+    </customValue>
+    <customValue>
+        <fullName>BT</fullName>
+        <default>false</default>
+        <label>BT</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Business</fullName>
+        <default>false</default>
+        <label>BT Business</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Global</fullName>
+        <default>false</default>
+        <label>BT Global</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Wholesale</fullName>
+        <default>false</default>
+        <label>BT Wholesale</label>
+    </customValue>
+    <customValue>
+        <fullName>Budd Telecom</fullName>
+        <default>false</default>
+        <label>Budd Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Network Services</fullName>
+        <default>false</default>
+        <label>Business Network Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Buzzconnect</fullName>
+        <default>false</default>
+        <label>Buzzconnect</label>
+    </customValue>
+    <customValue>
+        <fullName>Cable</fullName>
+        <default>false</default>
+        <label>Cable</label>
+    </customValue>
+    <customValue>
+        <fullName>Cable and Wireless</fullName>
+        <default>false</default>
+        <label>Cable and Wireless</label>
+    </customValue>
+    <customValue>
+        <fullName>Cablecom</fullName>
+        <default>false</default>
+        <label>Cablecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Cable Direct</fullName>
+        <default>false</default>
+        <label>Cable Direct</label>
+    </customValue>
+    <customValue>
+        <fullName>Cable London</fullName>
+        <default>false</default>
+        <label>Cable London</label>
+    </customValue>
+    <customValue>
+        <fullName>Cable Telecom</fullName>
+        <default>false</default>
+        <label>Cable Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Call18866.co.uk</fullName>
+        <default>false</default>
+        <label>Call18866.co.uk</label>
+    </customValue>
+    <customValue>
+        <fullName>Call accounts management</fullName>
+        <default>false</default>
+        <label>Call accounts management</label>
+    </customValue>
+    <customValue>
+        <fullName>Callback Alpha</fullName>
+        <default>false</default>
+        <label>Callback Alpha</label>
+    </customValue>
+    <customValue>
+        <fullName>Call Bill</fullName>
+        <default>false</default>
+        <label>Call Bill</label>
+    </customValue>
+    <customValue>
+        <fullName>Call Flow Solutions</fullName>
+        <default>false</default>
+        <label>Call Flow Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Callmaster</fullName>
+        <default>false</default>
+        <label>Callmaster</label>
+    </customValue>
+    <customValue>
+        <fullName>Call Options</fullName>
+        <default>false</default>
+        <label>Call Options</label>
+    </customValue>
+    <customValue>
+        <fullName>Callstream</fullName>
+        <default>false</default>
+        <label>Callstream</label>
+    </customValue>
+    <customValue>
+        <fullName>Calyx</fullName>
+        <default>false</default>
+        <label>Calyx</label>
+    </customValue>
+    <customValue>
+        <fullName>CanNet</fullName>
+        <default>false</default>
+        <label>CanNet</label>
+    </customValue>
+    <customValue>
+        <fullName>Canon</fullName>
+        <default>false</default>
+        <label>Canon</label>
+    </customValue>
+    <customValue>
+        <fullName>Capita</fullName>
+        <default>false</default>
+        <label>Capita</label>
+    </customValue>
+    <customValue>
+        <fullName>CAT COMMUNICATIONS</fullName>
+        <default>false</default>
+        <label>CAT COMMUNICATIONS</label>
+    </customValue>
+    <customValue>
+        <fullName>Caudwell Communications</fullName>
+        <default>false</default>
+        <label>Caudwell Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Cavendish Communications</fullName>
+        <default>false</default>
+        <label>Cavendish Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>CBG Telecom</fullName>
+        <default>false</default>
+        <label>CBG Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>CC Communications</fullName>
+        <default>false</default>
+        <label>CC Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>CCE</fullName>
+        <default>false</default>
+        <label>CCE</label>
+    </customValue>
+    <customValue>
+        <fullName>CDK Global</fullName>
+        <default>false</default>
+        <label>CDK Global</label>
+    </customValue>
+    <customValue>
+        <fullName>Cellular Solutions</fullName>
+        <default>false</default>
+        <label>Cellular Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Cellutions Ltd</fullName>
+        <default>false</default>
+        <label>Cellutions Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Centinel</fullName>
+        <default>false</default>
+        <label>Centinel</label>
+    </customValue>
+    <customValue>
+        <fullName>Central Telecom</fullName>
+        <default>false</default>
+        <label>Central Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Centrica</fullName>
+        <default>false</default>
+        <label>Centrica</label>
+    </customValue>
+    <customValue>
+        <fullName>CGMS ltd</fullName>
+        <default>false</default>
+        <label>CGMS ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Channel telecoms</fullName>
+        <default>false</default>
+        <label>Channel telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Charity Telecoms Group</fullName>
+        <default>false</default>
+        <label>Charity Telecoms Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Charterhouse</fullName>
+        <default>false</default>
+        <label>Charterhouse</label>
+    </customValue>
+    <customValue>
+        <fullName>Chess</fullName>
+        <default>false</default>
+        <label>Chess</label>
+    </customValue>
+    <customValue>
+        <fullName>Chiltern</fullName>
+        <default>false</default>
+        <label>Chiltern</label>
+    </customValue>
+    <customValue>
+        <fullName>Ciena</fullName>
+        <default>false</default>
+        <label>Ciena</label>
+    </customValue>
+    <customValue>
+        <fullName>Ciptex</fullName>
+        <default>false</default>
+        <label>Ciptex</label>
+    </customValue>
+    <customValue>
+        <fullName>Cisco</fullName>
+        <default>false</default>
+        <label>Cisco</label>
+    </customValue>
+    <customValue>
+        <fullName>Claranet</fullName>
+        <default>false</default>
+        <label>Claranet</label>
+    </customValue>
+    <customValue>
+        <fullName>Class Telecommunications</fullName>
+        <default>false</default>
+        <label>Class Telecommunications</label>
+    </customValue>
+    <customValue>
+        <fullName>Clearlink</fullName>
+        <default>false</default>
+        <label>Clearlink</label>
+    </customValue>
+    <customValue>
+        <fullName>Clear Telecom</fullName>
+        <default>false</default>
+        <label>Clear Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloudcall</fullName>
+        <default>false</default>
+        <label>Cloudcall</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Direct</fullName>
+        <default>false</default>
+        <label>Cloud Direct</label>
+    </customValue>
+    <customValue>
+        <fullName>Club Communications</fullName>
+        <default>false</default>
+        <label>Club Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>COLT</fullName>
+        <default>false</default>
+        <label>COLT</label>
+    </customValue>
+    <customValue>
+        <fullName>Comec Telecom</fullName>
+        <default>false</default>
+        <label>Comec Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Comms Factory</fullName>
+        <default>false</default>
+        <label>Comms Factory</label>
+    </customValue>
+    <customValue>
+        <fullName>Comms plus</fullName>
+        <default>false</default>
+        <label>Comms plus</label>
+    </customValue>
+    <customValue>
+        <fullName>Comms UK</fullName>
+        <default>false</default>
+        <label>Comms UK</label>
+    </customValue>
+    <customValue>
+        <fullName>Commsworld</fullName>
+        <default>false</default>
+        <label>Commsworld</label>
+    </customValue>
+    <customValue>
+        <fullName>Communicate Information</fullName>
+        <default>false</default>
+        <label>Communicate Information</label>
+    </customValue>
+    <customValue>
+        <fullName>communications stem</fullName>
+        <default>false</default>
+        <label>communications stem</label>
+    </customValue>
+    <customValue>
+        <fullName>Complete Office Solution</fullName>
+        <default>false</default>
+        <label>Complete Office Solution</label>
+    </customValue>
+    <customValue>
+        <fullName>Concert</fullName>
+        <default>false</default>
+        <label>Concert</label>
+    </customValue>
+    <customValue>
+        <fullName>Connaught Communications</fullName>
+        <default>false</default>
+        <label>Connaught Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Connect</fullName>
+        <default>false</default>
+        <label>Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>Content Guru</fullName>
+        <default>false</default>
+        <label>Content Guru</label>
+    </customValue>
+    <customValue>
+        <fullName>Converged Group</fullName>
+        <default>false</default>
+        <label>Converged Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Convergent Networks</fullName>
+        <default>false</default>
+        <label>Convergent Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Converse Telecom</fullName>
+        <default>false</default>
+        <label>Converse Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Co-op</fullName>
+        <default>false</default>
+        <label>Co-op</label>
+    </customValue>
+    <customValue>
+        <fullName>Core One</fullName>
+        <default>false</default>
+        <label>Core One</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate 4 You</fullName>
+        <default>false</default>
+        <label>Corporate 4 You</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Management Telecom Ltd</fullName>
+        <default>false</default>
+        <label>Corporate Management Telecom Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Cortel</fullName>
+        <default>false</default>
+        <label>Cortel</label>
+    </customValue>
+    <customValue>
+        <fullName>Crowthorne</fullName>
+        <default>false</default>
+        <label>Crowthorne</label>
+    </customValue>
+    <customValue>
+        <fullName>Crystal</fullName>
+        <default>false</default>
+        <label>Crystal</label>
+    </customValue>
+    <customValue>
+        <fullName>CSG</fullName>
+        <default>false</default>
+        <label>CSG</label>
+    </customValue>
+    <customValue>
+        <fullName>CSL</fullName>
+        <default>false</default>
+        <label>CSL</label>
+    </customValue>
+    <customValue>
+        <fullName>CSS Ltd</fullName>
+        <default>false</default>
+        <label>CSS Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>CTM</fullName>
+        <default>false</default>
+        <label>CTM</label>
+    </customValue>
+    <customValue>
+        <fullName>CVS</fullName>
+        <default>false</default>
+        <label>CVS</label>
+    </customValue>
+    <customValue>
+        <fullName>Cyta</fullName>
+        <default>false</default>
+        <label>Cyta</label>
+    </customValue>
+    <customValue>
+        <fullName>Daisy daisygroup</fullName>
+        <default>false</default>
+        <label>Daisy daisygroup</label>
+    </customValue>
+    <customValue>
+        <fullName>Daisy Telecom</fullName>
+        <default>false</default>
+        <label>Daisy Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Datasharp</fullName>
+        <default>false</default>
+        <label>Datasharp</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Tote Ltd</fullName>
+        <default>false</default>
+        <label>Data Tote Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>DCI</fullName>
+        <default>false</default>
+        <label>DCI</label>
+    </customValue>
+    <customValue>
+        <fullName>Deep Blue</fullName>
+        <default>false</default>
+        <label>Deep Blue</label>
+    </customValue>
+    <customValue>
+        <fullName>Demon (Thus)</fullName>
+        <default>false</default>
+        <label>Demon (Thus)</label>
+    </customValue>
+    <customValue>
+        <fullName>Detewe</fullName>
+        <default>false</default>
+        <label>Detewe</label>
+    </customValue>
+    <customValue>
+        <fullName>Dial 9</fullName>
+        <default>false</default>
+        <label>Dial 9</label>
+    </customValue>
+    <customValue>
+        <fullName>Dick Flemming</fullName>
+        <default>false</default>
+        <label>Dick Flemming</label>
+    </customValue>
+    <customValue>
+        <fullName>Digital IP</fullName>
+        <default>false</default>
+        <label>Digital IP</label>
+    </customValue>
+    <customValue>
+        <fullName>Dimension Data</fullName>
+        <default>false</default>
+        <label>Dimension Data</label>
+    </customValue>
+    <customValue>
+        <fullName>Direct Response Ltd</fullName>
+        <default>false</default>
+        <label>Direct Response Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>DIY Solution</fullName>
+        <default>false</default>
+        <label>DIY Solution</label>
+    </customValue>
+    <customValue>
+        <fullName>DMC</fullName>
+        <default>false</default>
+        <label>DMC</label>
+    </customValue>
+    <customValue>
+        <fullName>Dolphin Communications</fullName>
+        <default>false</default>
+        <label>Dolphin Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Dot.com</fullName>
+        <default>false</default>
+        <label>Dot.com</label>
+    </customValue>
+    <customValue>
+        <fullName>DRD</fullName>
+        <default>false</default>
+        <label>DRD</label>
+    </customValue>
+    <customValue>
+        <fullName>Dreamline</fullName>
+        <default>false</default>
+        <label>Dreamline</label>
+    </customValue>
+    <customValue>
+        <fullName>Dubsat</fullName>
+        <default>false</default>
+        <label>Dubsat</label>
+    </customValue>
+    <customValue>
+        <fullName>Duprey</fullName>
+        <default>false</default>
+        <label>Duprey</label>
+    </customValue>
+    <customValue>
+        <fullName>Durham City Council</fullName>
+        <default>false</default>
+        <label>Durham City Council</label>
+    </customValue>
+    <customValue>
+        <fullName>DXI</fullName>
+        <default>false</default>
+        <label>DXI</label>
+    </customValue>
+    <customValue>
+        <fullName>DX Telecom</fullName>
+        <default>false</default>
+        <label>DX Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Eagle Associate</fullName>
+        <default>false</default>
+        <label>Eagle Associate</label>
+    </customValue>
+    <customValue>
+        <fullName>Easi-tel</fullName>
+        <default>false</default>
+        <label>Easi-tel</label>
+    </customValue>
+    <customValue>
+        <fullName>Easycall</fullName>
+        <default>false</default>
+        <label>Easycall</label>
+    </customValue>
+    <customValue>
+        <fullName>Easynet</fullName>
+        <default>false</default>
+        <label>Easynet</label>
+    </customValue>
+    <customValue>
+        <fullName>Echo Networks</fullName>
+        <default>false</default>
+        <label>Echo Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Eclipse Telecom</fullName>
+        <default>false</default>
+        <label>Eclipse Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Ecocall</fullName>
+        <default>false</default>
+        <label>Ecocall</label>
+    </customValue>
+    <customValue>
+        <fullName>ED-Comms</fullName>
+        <default>false</default>
+        <label>ED-Comms</label>
+    </customValue>
+    <customValue>
+        <fullName>Edge telecom</fullName>
+        <default>false</default>
+        <label>Edge telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Edge Vision</fullName>
+        <default>false</default>
+        <label>Edge Vision</label>
+    </customValue>
+    <customValue>
+        <fullName>EE</fullName>
+        <default>false</default>
+        <label>EE</label>
+    </customValue>
+    <customValue>
+        <fullName>EEscape</fullName>
+        <default>false</default>
+        <label>EEscape</label>
+    </customValue>
+    <customValue>
+        <fullName>Eircom</fullName>
+        <default>false</default>
+        <label>Eircom</label>
+    </customValue>
+    <customValue>
+        <fullName>Elisha Telecom</fullName>
+        <default>false</default>
+        <label>Elisha Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Elite Comms Group</fullName>
+        <default>false</default>
+        <label>Elite Comms Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Elite Telecom</fullName>
+        <default>false</default>
+        <label>Elite Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Elsa Telecom</fullName>
+        <default>false</default>
+        <label>Elsa Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Empha Technology</fullName>
+        <default>false</default>
+        <label>Empha Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>Enable</fullName>
+        <default>false</default>
+        <label>Enable</label>
+    </customValue>
+    <customValue>
+        <fullName>Energis</fullName>
+        <default>false</default>
+        <label>Energis</label>
+    </customValue>
+    <customValue>
+        <fullName>Entanet</fullName>
+        <default>false</default>
+        <label>Entanet</label>
+    </customValue>
+    <customValue>
+        <fullName>Entranet</fullName>
+        <default>false</default>
+        <label>Entranet</label>
+    </customValue>
+    <customValue>
+        <fullName>Equant</fullName>
+        <default>false</default>
+        <label>Equant</label>
+    </customValue>
+    <customValue>
+        <fullName>Essensys</fullName>
+        <default>false</default>
+        <label>Essensys</label>
+    </customValue>
+    <customValue>
+        <fullName>Essex Cable</fullName>
+        <default>false</default>
+        <label>Essex Cable</label>
+    </customValue>
+    <customValue>
+        <fullName>Euphony</fullName>
+        <default>false</default>
+        <label>Euphony</label>
+    </customValue>
+    <customValue>
+        <fullName>Eurobell</fullName>
+        <default>false</default>
+        <label>Eurobell</label>
+    </customValue>
+    <customValue>
+        <fullName>Eurodata</fullName>
+        <default>false</default>
+        <label>Eurodata</label>
+    </customValue>
+    <customValue>
+        <fullName>Europacom</fullName>
+        <default>false</default>
+        <label>Europacom</label>
+    </customValue>
+    <customValue>
+        <fullName>European Networks</fullName>
+        <default>false</default>
+        <label>European Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Eurotel</fullName>
+        <default>false</default>
+        <label>Eurotel</label>
+    </customValue>
+    <customValue>
+        <fullName>Eurowide</fullName>
+        <default>false</default>
+        <label>Eurowide</label>
+    </customValue>
+    <customValue>
+        <fullName>Everlast Systems</fullName>
+        <default>false</default>
+        <label>Everlast Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>Evoko</fullName>
+        <default>false</default>
+        <label>Evoko</label>
+    </customValue>
+    <customValue>
+        <fullName>Excel</fullName>
+        <default>false</default>
+        <label>Excel</label>
+    </customValue>
+    <customValue>
+        <fullName>Executel</fullName>
+        <default>false</default>
+        <label>Executel</label>
+    </customValue>
+    <customValue>
+        <fullName>Exponential E</fullName>
+        <default>false</default>
+        <label>Exponential E</label>
+    </customValue>
+    <customValue>
+        <fullName>Extel Europe Ltd</fullName>
+        <default>false</default>
+        <label>Extel Europe Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Ezis</fullName>
+        <default>false</default>
+        <label>Ezis</label>
+    </customValue>
+    <customValue>
+        <fullName>falcon</fullName>
+        <default>false</default>
+        <label>falcon</label>
+    </customValue>
+    <customValue>
+        <fullName>F H Brown</fullName>
+        <default>false</default>
+        <label>F H Brown</label>
+    </customValue>
+    <customValue>
+        <fullName>Fibrecom</fullName>
+        <default>false</default>
+        <label>Fibrecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Fidonet</fullName>
+        <default>false</default>
+        <label>Fidonet</label>
+    </customValue>
+    <customValue>
+        <fullName>First Group Dynamics</fullName>
+        <default>false</default>
+        <label>First Group Dynamics</label>
+    </customValue>
+    <customValue>
+        <fullName>First Telecom</fullName>
+        <default>false</default>
+        <label>First Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>FLR Spectrum</fullName>
+        <default>false</default>
+        <label>FLR Spectrum</label>
+    </customValue>
+    <customValue>
+        <fullName>Fluid Networks</fullName>
+        <default>false</default>
+        <label>Fluid Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Focus for you</fullName>
+        <default>false</default>
+        <label>Focus for you</label>
+    </customValue>
+    <customValue>
+        <fullName>Foehn</fullName>
+        <default>false</default>
+        <label>Foehn</label>
+    </customValue>
+    <customValue>
+        <fullName>Fonebox</fullName>
+        <default>false</default>
+        <label>Fonebox</label>
+    </customValue>
+    <customValue>
+        <fullName>Forrest Communications</fullName>
+        <default>false</default>
+        <label>Forrest Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Freedom</fullName>
+        <default>false</default>
+        <label>Freedom</label>
+    </customValue>
+    <customValue>
+        <fullName>French Telecom</fullName>
+        <default>false</default>
+        <label>French Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Frontier</fullName>
+        <default>false</default>
+        <label>Frontier</label>
+    </customValue>
+    <customValue>
+        <fullName>FSB Telecom</fullName>
+        <default>false</default>
+        <label>FSB Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Fujitsu</fullName>
+        <default>false</default>
+        <label>Fujitsu</label>
+    </customValue>
+    <customValue>
+        <fullName>Fuse2</fullName>
+        <default>false</default>
+        <label>Fuse2</label>
+    </customValue>
+    <customValue>
+        <fullName>Fused</fullName>
+        <default>false</default>
+        <label>Fused</label>
+    </customValue>
+    <customValue>
+        <fullName>Future Telecom</fullName>
+        <default>false</default>
+        <label>Future Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Fuze</fullName>
+        <default>false</default>
+        <label>Fuze</label>
+    </customValue>
+    <customValue>
+        <fullName>G3 Networks</fullName>
+        <default>false</default>
+        <label>G3 Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Gamma</fullName>
+        <default>false</default>
+        <label>Gamma</label>
+    </customValue>
+    <customValue>
+        <fullName>Gamma Telecom</fullName>
+        <default>false</default>
+        <label>Gamma Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>GB Telecom</fullName>
+        <default>false</default>
+        <label>GB Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>GCI</fullName>
+        <default>false</default>
+        <label>GCI</label>
+    </customValue>
+    <customValue>
+        <fullName>Gemini</fullName>
+        <default>false</default>
+        <label>Gemini</label>
+    </customValue>
+    <customValue>
+        <fullName>Genband</fullName>
+        <default>false</default>
+        <label>Genband</label>
+    </customValue>
+    <customValue>
+        <fullName>Genesis Communications</fullName>
+        <default>false</default>
+        <label>Genesis Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>GlemNet</fullName>
+        <default>false</default>
+        <label>GlemNet</label>
+    </customValue>
+    <customValue>
+        <fullName>Global</fullName>
+        <default>false</default>
+        <label>Global</label>
+    </customValue>
+    <customValue>
+        <fullName>Global Crossing</fullName>
+        <default>false</default>
+        <label>Global Crossing</label>
+    </customValue>
+    <customValue>
+        <fullName>Global Link</fullName>
+        <default>false</default>
+        <label>Global Link</label>
+    </customValue>
+    <customValue>
+        <fullName>Globix</fullName>
+        <default>false</default>
+        <label>Globix</label>
+    </customValue>
+    <customValue>
+        <fullName>Gold Telecom</fullName>
+        <default>false</default>
+        <label>Gold Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Gradwell</fullName>
+        <default>false</default>
+        <label>Gradwell</label>
+    </customValue>
+    <customValue>
+        <fullName>Greenwich comms</fullName>
+        <default>false</default>
+        <label>Greenwich comms</label>
+    </customValue>
+    <customValue>
+        <fullName>Greystone</fullName>
+        <default>false</default>
+        <label>Greystone</label>
+    </customValue>
+    <customValue>
+        <fullName>GTN Networks</fullName>
+        <default>false</default>
+        <label>GTN Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>GTS</fullName>
+        <default>false</default>
+        <label>GTS</label>
+    </customValue>
+    <customValue>
+        <fullName>Hathaway Associates</fullName>
+        <default>false</default>
+        <label>Hathaway Associates</label>
+    </customValue>
+    <customValue>
+        <fullName>Haven</fullName>
+        <default>false</default>
+        <label>Haven</label>
+    </customValue>
+    <customValue>
+        <fullName>Hello Telecom</fullName>
+        <default>false</default>
+        <label>Hello Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Highland Network</fullName>
+        <default>false</default>
+        <label>Highland Network</label>
+    </customValue>
+    <customValue>
+        <fullName>HighNet</fullName>
+        <default>false</default>
+        <label>HighNet</label>
+    </customValue>
+    <customValue>
+        <fullName>High Speed Office</fullName>
+        <default>false</default>
+        <label>High Speed Office</label>
+    </customValue>
+    <customValue>
+        <fullName>Hobbs Parker Telecom</fullName>
+        <default>false</default>
+        <label>Hobbs Parker Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Hosted</fullName>
+        <default>false</default>
+        <label>Hosted</label>
+    </customValue>
+    <customValue>
+        <fullName>HSO</fullName>
+        <default>false</default>
+        <label>HSO</label>
+    </customValue>
+    <customValue>
+        <fullName>Hynet</fullName>
+        <default>false</default>
+        <label>Hynet</label>
+    </customValue>
+    <customValue>
+        <fullName>I3c Ltd</fullName>
+        <default>false</default>
+        <label>I3c Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Ibcost</fullName>
+        <default>false</default>
+        <label>Ibcost</label>
+    </customValue>
+    <customValue>
+        <fullName>IBM</fullName>
+        <default>false</default>
+        <label>IBM</label>
+    </customValue>
+    <customValue>
+        <fullName>ICB</fullName>
+        <default>false</default>
+        <label>ICB</label>
+    </customValue>
+    <customValue>
+        <fullName>ICIS</fullName>
+        <default>false</default>
+        <label>ICIS</label>
+    </customValue>
+    <customValue>
+        <fullName>Icon</fullName>
+        <default>false</default>
+        <label>Icon</label>
+    </customValue>
+    <customValue>
+        <fullName>Ideal Networks</fullName>
+        <default>false</default>
+        <label>Ideal Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Identa Telecom</fullName>
+        <default>false</default>
+        <label>Identa Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>IDS Communications</fullName>
+        <default>false</default>
+        <label>IDS Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>iHUB</fullName>
+        <default>false</default>
+        <label>iHUB</label>
+    </customValue>
+    <customValue>
+        <fullName>IMS</fullName>
+        <default>false</default>
+        <label>IMS</label>
+    </customValue>
+    <customValue>
+        <fullName>Inclarity</fullName>
+        <default>false</default>
+        <label>Inclarity</label>
+    </customValue>
+    <customValue>
+        <fullName>I-Net</fullName>
+        <default>false</default>
+        <label>I-Net</label>
+    </customValue>
+    <customValue>
+        <fullName>Infonet</fullName>
+        <default>false</default>
+        <label>Infonet</label>
+    </customValue>
+    <customValue>
+        <fullName>In House</fullName>
+        <default>false</default>
+        <label>In House</label>
+    </customValue>
+    <customValue>
+        <fullName>Insight UK</fullName>
+        <default>false</default>
+        <label>Insight UK</label>
+    </customValue>
+    <customValue>
+        <fullName>In Technology</fullName>
+        <default>false</default>
+        <label>In Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>Intech Telecom</fullName>
+        <default>false</default>
+        <label>Intech Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Integra</fullName>
+        <default>false</default>
+        <label>Integra</label>
+    </customValue>
+    <customValue>
+        <fullName>Intelecom</fullName>
+        <default>false</default>
+        <label>Intelecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Interactive Telecoms</fullName>
+        <default>false</default>
+        <label>Interactive Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Intercity</fullName>
+        <default>false</default>
+        <label>Intercity</label>
+    </customValue>
+    <customValue>
+        <fullName>Intercity Mobile</fullName>
+        <default>false</default>
+        <label>Intercity Mobile</label>
+    </customValue>
+    <customValue>
+        <fullName>Intercity Telecom</fullName>
+        <default>false</default>
+        <label>Intercity Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Interfusion</fullName>
+        <default>false</default>
+        <label>Interfusion</label>
+    </customValue>
+    <customValue>
+        <fullName>Interlink</fullName>
+        <default>false</default>
+        <label>Interlink</label>
+    </customValue>
+    <customValue>
+        <fullName>Interoute</fullName>
+        <default>false</default>
+        <label>Interoute</label>
+    </customValue>
+    <customValue>
+        <fullName>INTOUCH</fullName>
+        <default>false</default>
+        <label>INTOUCH</label>
+    </customValue>
+    <customValue>
+        <fullName>IPCORTEX</fullName>
+        <default>false</default>
+        <label>IPCORTEX</label>
+    </customValue>
+    <customValue>
+        <fullName>IPGenie</fullName>
+        <default>false</default>
+        <label>IPGenie</label>
+    </customValue>
+    <customValue>
+        <fullName>IPI</fullName>
+        <default>false</default>
+        <label>IPI</label>
+    </customValue>
+    <customValue>
+        <fullName>IPTIOMI</fullName>
+        <default>false</default>
+        <label>IPTIOMI</label>
+    </customValue>
+    <customValue>
+        <fullName>Isis</fullName>
+        <default>false</default>
+        <label>Isis</label>
+    </customValue>
+    <customValue>
+        <fullName>ISN</fullName>
+        <default>false</default>
+        <label>ISN</label>
+    </customValue>
+    <customValue>
+        <fullName>IT action</fullName>
+        <default>false</default>
+        <label>IT action</label>
+    </customValue>
+    <customValue>
+        <fullName>ITB</fullName>
+        <default>false</default>
+        <label>ITB</label>
+    </customValue>
+    <customValue>
+        <fullName>ITC</fullName>
+        <default>false</default>
+        <label>ITC</label>
+    </customValue>
+    <customValue>
+        <fullName>ITC (MCI)</fullName>
+        <default>false</default>
+        <label>ITC (MCI)</label>
+    </customValue>
+    <customValue>
+        <fullName>ITPS</fullName>
+        <default>false</default>
+        <label>ITPS</label>
+    </customValue>
+    <customValue>
+        <fullName>JRI</fullName>
+        <default>false</default>
+        <label>JRI</label>
+    </customValue>
+    <customValue>
+        <fullName>JVH Group</fullName>
+        <default>false</default>
+        <label>JVH Group</label>
+    </customValue>
+    <customValue>
+        <fullName>KAM</fullName>
+        <default>false</default>
+        <label>KAM</label>
+    </customValue>
+    <customValue>
+        <fullName>Kavanagh</fullName>
+        <default>false</default>
+        <label>Kavanagh</label>
+    </customValue>
+    <customValue>
+        <fullName>Kcom</fullName>
+        <default>false</default>
+        <label>Kcom</label>
+    </customValue>
+    <customValue>
+        <fullName>KDDI</fullName>
+        <default>false</default>
+        <label>KDDI</label>
+    </customValue>
+    <customValue>
+        <fullName>KDDI NTT</fullName>
+        <default>false</default>
+        <label>KDDI NTT</label>
+    </customValue>
+    <customValue>
+        <fullName>Keltek</fullName>
+        <default>false</default>
+        <label>Keltek</label>
+    </customValue>
+    <customValue>
+        <fullName>Kilbryde</fullName>
+        <default>false</default>
+        <label>Kilbryde</label>
+    </customValue>
+    <customValue>
+        <fullName>Kingston</fullName>
+        <default>false</default>
+        <label>Kingston</label>
+    </customValue>
+    <customValue>
+        <fullName>KPN</fullName>
+        <default>false</default>
+        <label>KPN</label>
+    </customValue>
+    <customValue>
+        <fullName>Lantec</fullName>
+        <default>false</default>
+        <label>Lantec</label>
+    </customValue>
+    <customValue>
+        <fullName>Lastword Communications</fullName>
+        <default>false</default>
+        <label>Lastword Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Legal TX</fullName>
+        <default>false</default>
+        <label>Legal TX</label>
+    </customValue>
+    <customValue>
+        <fullName>Level 3</fullName>
+        <default>false</default>
+        <label>Level 3</label>
+    </customValue>
+    <customValue>
+        <fullName>Level 7 Systems</fullName>
+        <default>false</default>
+        <label>Level 7 Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>Liberty Bell</fullName>
+        <default>false</default>
+        <label>Liberty Bell</label>
+    </customValue>
+    <customValue>
+        <fullName>Linchpin</fullName>
+        <default>false</default>
+        <label>Linchpin</label>
+    </customValue>
+    <customValue>
+        <fullName>Linimex</fullName>
+        <default>false</default>
+        <label>Linimex</label>
+    </customValue>
+    <customValue>
+        <fullName>Link Connect</fullName>
+        <default>false</default>
+        <label>Link Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>Lister Comms</fullName>
+        <default>false</default>
+        <label>Lister Comms</label>
+    </customValue>
+    <customValue>
+        <fullName>Lloyds business communications</fullName>
+        <default>false</default>
+        <label>Lloyds business communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Local Supplier</fullName>
+        <default>false</default>
+        <label>Local Supplier</label>
+    </customValue>
+    <customValue>
+        <fullName>Logicalis</fullName>
+        <default>false</default>
+        <label>Logicalis</label>
+    </customValue>
+    <customValue>
+        <fullName>Logicom</fullName>
+        <default>false</default>
+        <label>Logicom</label>
+    </customValue>
+    <customValue>
+        <fullName>London Cable</fullName>
+        <default>false</default>
+        <label>London Cable</label>
+    </customValue>
+    <customValue>
+        <fullName>Loop</fullName>
+        <default>false</default>
+        <label>Loop</label>
+    </customValue>
+    <customValue>
+        <fullName>Luminex</fullName>
+        <default>false</default>
+        <label>Luminex</label>
+    </customValue>
+    <customValue>
+        <fullName>M12</fullName>
+        <default>false</default>
+        <label>M12</label>
+    </customValue>
+    <customValue>
+        <fullName>M247</fullName>
+        <default>false</default>
+        <label>M247</label>
+    </customValue>
+    <customValue>
+        <fullName>Magnafear</fullName>
+        <default>false</default>
+        <label>Magnafear</label>
+    </customValue>
+    <customValue>
+        <fullName>Magrathea Telecommunications Ltd</fullName>
+        <default>false</default>
+        <label>Magrathea Telecommunications Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Mainstream Digital</fullName>
+        <default>false</default>
+        <label>Mainstream Digital</label>
+    </customValue>
+    <customValue>
+        <fullName>Maintel</fullName>
+        <default>false</default>
+        <label>Maintel</label>
+    </customValue>
+    <customValue>
+        <fullName>Margolis</fullName>
+        <default>false</default>
+        <label>Margolis</label>
+    </customValue>
+    <customValue>
+        <fullName>Masergy</fullName>
+        <default>false</default>
+        <label>Masergy</label>
+    </customValue>
+    <customValue>
+        <fullName>Masons intercoms</fullName>
+        <default>false</default>
+        <label>Masons intercoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Matrix</fullName>
+        <default>false</default>
+        <label>Matrix</label>
+    </customValue>
+    <customValue>
+        <fullName>Maxim</fullName>
+        <default>false</default>
+        <label>Maxim</label>
+    </customValue>
+    <customValue>
+        <fullName>Max Telecom</fullName>
+        <default>false</default>
+        <label>Max Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Mayflower</fullName>
+        <default>false</default>
+        <label>Mayflower</label>
+    </customValue>
+    <customValue>
+        <fullName>MCI</fullName>
+        <default>false</default>
+        <label>MCI</label>
+    </customValue>
+    <customValue>
+        <fullName>MDNX</fullName>
+        <default>false</default>
+        <label>MDNX</label>
+    </customValue>
+    <customValue>
+        <fullName>Meridian IP</fullName>
+        <default>false</default>
+        <label>Meridian IP</label>
+    </customValue>
+    <customValue>
+        <fullName>Midland Telecom</fullName>
+        <default>false</default>
+        <label>Midland Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Millenium</fullName>
+        <default>false</default>
+        <label>Millenium</label>
+    </customValue>
+    <customValue>
+        <fullName>Mitel</fullName>
+        <default>false</default>
+        <label>Mitel</label>
+    </customValue>
+    <customValue>
+        <fullName>M-Line Telecoms</fullName>
+        <default>false</default>
+        <label>M-Line Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile 5</fullName>
+        <default>false</default>
+        <label>Mobile 5</label>
+    </customValue>
+    <customValue>
+        <fullName>Modern Communications</fullName>
+        <default>false</default>
+        <label>Modern Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Morcom</fullName>
+        <default>false</default>
+        <label>Morcom</label>
+    </customValue>
+    <customValue>
+        <fullName>Motorola</fullName>
+        <default>false</default>
+        <label>Motorola</label>
+    </customValue>
+    <customValue>
+        <fullName>NDO</fullName>
+        <default>false</default>
+        <label>NDO</label>
+    </customValue>
+    <customValue>
+        <fullName>NECC Telecom</fullName>
+        <default>false</default>
+        <label>NECC Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>NEG Telecom</fullName>
+        <default>false</default>
+        <label>NEG Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Neos</fullName>
+        <default>false</default>
+        <label>Neos</label>
+    </customValue>
+    <customValue>
+        <fullName>NetSupport</fullName>
+        <default>false</default>
+        <label>NetSupport</label>
+    </customValue>
+    <customValue>
+        <fullName>Network Business Solutions</fullName>
+        <default>false</default>
+        <label>Network Business Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Network Direct</fullName>
+        <default>false</default>
+        <label>Network Direct</label>
+    </customValue>
+    <customValue>
+        <fullName>Network Europe</fullName>
+        <default>false</default>
+        <label>Network Europe</label>
+    </customValue>
+    <customValue>
+        <fullName>Network Resources</fullName>
+        <default>false</default>
+        <label>Network Resources</label>
+    </customValue>
+    <customValue>
+        <fullName>Network Telecom (UK)</fullName>
+        <default>false</default>
+        <label>Network Telecom (UK)</label>
+    </customValue>
+    <customValue>
+        <fullName>Netze Telecom</fullName>
+        <default>false</default>
+        <label>Netze Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Nevada</fullName>
+        <default>false</default>
+        <label>Nevada</label>
+    </customValue>
+    <customValue>
+        <fullName>NEW ENGLAND TELEPHONE CO LTD</fullName>
+        <default>false</default>
+        <label>NEW ENGLAND TELEPHONE CO LTD</label>
+    </customValue>
+    <customValue>
+        <fullName>New Star Networks</fullName>
+        <default>false</default>
+        <label>New Star Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>New Voice Media</fullName>
+        <default>false</default>
+        <label>New Voice Media</label>
+    </customValue>
+    <customValue>
+        <fullName>Nexus</fullName>
+        <default>false</default>
+        <label>Nexus</label>
+    </customValue>
+    <customValue>
+        <fullName>NFON</fullName>
+        <default>false</default>
+        <label>NFON</label>
+    </customValue>
+    <customValue>
+        <fullName>Nimvelo</fullName>
+        <default>false</default>
+        <label>Nimvelo</label>
+    </customValue>
+    <customValue>
+        <fullName>Nine Telecom</fullName>
+        <default>false</default>
+        <label>Nine Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>NIU Solutions</fullName>
+        <default>false</default>
+        <label>NIU Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Noble solutions</fullName>
+        <default>false</default>
+        <label>Noble solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Node4</fullName>
+        <default>false</default>
+        <label>Node4</label>
+    </customValue>
+    <customValue>
+        <fullName>Node 4</fullName>
+        <default>false</default>
+        <label>Node 4</label>
+    </customValue>
+    <customValue>
+        <fullName>Norcom</fullName>
+        <default>false</default>
+        <label>Norcom</label>
+    </customValue>
+    <customValue>
+        <fullName>NORWEB</fullName>
+        <default>false</default>
+        <label>NORWEB</label>
+    </customValue>
+    <customValue>
+        <fullName>Not Applicable</fullName>
+        <default>false</default>
+        <label>Not Applicable</label>
+    </customValue>
+    <customValue>
+        <fullName>Noveau Solutions</fullName>
+        <default>false</default>
+        <label>Noveau Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>NTA</fullName>
+        <default>false</default>
+        <label>NTA</label>
+    </customValue>
+    <customValue>
+        <fullName>NTE</fullName>
+        <default>false</default>
+        <label>NTE</label>
+    </customValue>
+    <customValue>
+        <fullName>NTL</fullName>
+        <default>false</default>
+        <label>NTL</label>
+    </customValue>
+    <customValue>
+        <fullName>NT Telecom</fullName>
+        <default>false</default>
+        <label>NT Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>NT Voice &amp; Data</fullName>
+        <default>false</default>
+        <label>NT Voice &amp; Data</label>
+    </customValue>
+    <customValue>
+        <fullName>Numeric</fullName>
+        <default>false</default>
+        <label>Numeric</label>
+    </customValue>
+    <customValue>
+        <fullName>O2</fullName>
+        <default>false</default>
+        <label>O2</label>
+    </customValue>
+    <customValue>
+        <fullName>Obit Telecom</fullName>
+        <default>false</default>
+        <label>Obit Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>OBS</fullName>
+        <default>false</default>
+        <label>OBS</label>
+    </customValue>
+    <customValue>
+        <fullName>Ocean Telecom</fullName>
+        <default>false</default>
+        <label>Ocean Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Odyssey Systems</fullName>
+        <default>false</default>
+        <label>Odyssey Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>Ogal V Commuinications</fullName>
+        <default>false</default>
+        <label>Ogal V Commuinications</label>
+    </customValue>
+    <customValue>
+        <fullName>Ogilvie</fullName>
+        <default>false</default>
+        <label>Ogilvie</label>
+    </customValue>
+    <customValue>
+        <fullName>One.Tel</fullName>
+        <default>false</default>
+        <label>One.Tel</label>
+    </customValue>
+    <customValue>
+        <fullName>OneBill Telecom</fullName>
+        <default>false</default>
+        <label>OneBill Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>One Point</fullName>
+        <default>false</default>
+        <label>One Point</label>
+    </customValue>
+    <customValue>
+        <fullName>Onyx</fullName>
+        <default>false</default>
+        <label>Onyx</label>
+    </customValue>
+    <customValue>
+        <fullName>Opal</fullName>
+        <default>false</default>
+        <label>Opal</label>
+    </customValue>
+    <customValue>
+        <fullName>Openline Communications</fullName>
+        <default>false</default>
+        <label>Openline Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Opera</fullName>
+        <default>false</default>
+        <label>Opera</label>
+    </customValue>
+    <customValue>
+        <fullName>optimitty</fullName>
+        <default>false</default>
+        <label>optimitty</label>
+    </customValue>
+    <customValue>
+        <fullName>Option Telecom</fullName>
+        <default>false</default>
+        <label>Option Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Opus</fullName>
+        <default>false</default>
+        <label>Opus</label>
+    </customValue>
+    <customValue>
+        <fullName>Orange</fullName>
+        <default>false</default>
+        <label>Orange</label>
+    </customValue>
+    <customValue>
+        <fullName>Orbtalk</fullName>
+        <default>false</default>
+        <label>Orbtalk</label>
+    </customValue>
+    <customValue>
+        <fullName>Oricom</fullName>
+        <default>false</default>
+        <label>Oricom</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>Pace Telecom</fullName>
+        <default>false</default>
+        <label>Pace Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Panasonic</fullName>
+        <default>false</default>
+        <label>Panasonic</label>
+    </customValue>
+    <customValue>
+        <fullName>PCCW</fullName>
+        <default>false</default>
+        <label>PCCW</label>
+    </customValue>
+    <customValue>
+        <fullName>PCMG</fullName>
+        <default>false</default>
+        <label>PCMG</label>
+    </customValue>
+    <customValue>
+        <fullName>peach telecom</fullName>
+        <default>false</default>
+        <label>peach telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Peak Telecom</fullName>
+        <default>false</default>
+        <label>Peak Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Pearl Telecom</fullName>
+        <default>false</default>
+        <label>Pearl Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Phone Co-Op</fullName>
+        <default>false</default>
+        <label>Phone Co-Op</label>
+    </customValue>
+    <customValue>
+        <fullName>Pineapple Communications</fullName>
+        <default>false</default>
+        <label>Pineapple Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Pinewood</fullName>
+        <default>false</default>
+        <label>Pinewood</label>
+    </customValue>
+    <customValue>
+        <fullName>Pink Telecom</fullName>
+        <default>false</default>
+        <label>Pink Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Pinnacale</fullName>
+        <default>false</default>
+        <label>Pinnacale</label>
+    </customValue>
+    <customValue>
+        <fullName>Pipex</fullName>
+        <default>false</default>
+        <label>Pipex</label>
+    </customValue>
+    <customValue>
+        <fullName>Playstream</fullName>
+        <default>false</default>
+        <label>Playstream</label>
+    </customValue>
+    <customValue>
+        <fullName>PNC</fullName>
+        <default>false</default>
+        <label>PNC</label>
+    </customValue>
+    <customValue>
+        <fullName>Portal Voice and Data</fullName>
+        <default>false</default>
+        <label>Portal Voice and Data</label>
+    </customValue>
+    <customValue>
+        <fullName>Portland</fullName>
+        <default>false</default>
+        <label>Portland</label>
+    </customValue>
+    <customValue>
+        <fullName>Poundbury</fullName>
+        <default>false</default>
+        <label>Poundbury</label>
+    </customValue>
+    <customValue>
+        <fullName>Powergen</fullName>
+        <default>false</default>
+        <label>Powergen</label>
+    </customValue>
+    <customValue>
+        <fullName>Premier Telecom</fullName>
+        <default>false</default>
+        <label>Premier Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Prestigious Communications Ltd</fullName>
+        <default>false</default>
+        <label>Prestigious Communications Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Primus</fullName>
+        <default>false</default>
+        <label>Primus</label>
+    </customValue>
+    <customValue>
+        <fullName>Principal IT</fullName>
+        <default>false</default>
+        <label>Principal IT</label>
+    </customValue>
+    <customValue>
+        <fullName>Project Telecom</fullName>
+        <default>false</default>
+        <label>Project Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Protel Communications</fullName>
+        <default>false</default>
+        <label>Protel Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>ProVoice</fullName>
+        <default>false</default>
+        <label>ProVoice</label>
+    </customValue>
+    <customValue>
+        <fullName>PSU</fullName>
+        <default>false</default>
+        <label>PSU</label>
+    </customValue>
+    <customValue>
+        <fullName>PSU Talk</fullName>
+        <default>false</default>
+        <label>PSU Talk</label>
+    </customValue>
+    <customValue>
+        <fullName>Pulse</fullName>
+        <default>false</default>
+        <label>Pulse</label>
+    </customValue>
+    <customValue>
+        <fullName>Pulse Media</fullName>
+        <default>false</default>
+        <label>Pulse Media</label>
+    </customValue>
+    <customValue>
+        <fullName>Pure communications</fullName>
+        <default>false</default>
+        <label>Pure communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Qudos</fullName>
+        <default>false</default>
+        <label>Qudos</label>
+    </customValue>
+    <customValue>
+        <fullName>Rainbow</fullName>
+        <default>false</default>
+        <label>Rainbow</label>
+    </customValue>
+    <customValue>
+        <fullName>Rainbow Telco</fullName>
+        <default>false</default>
+        <label>Rainbow Telco</label>
+    </customValue>
+    <customValue>
+        <fullName>RCG</fullName>
+        <default>false</default>
+        <label>RCG</label>
+    </customValue>
+    <customValue>
+        <fullName>Reach Telecom</fullName>
+        <default>false</default>
+        <label>Reach Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Redcentric</fullName>
+        <default>false</default>
+        <label>Redcentric</label>
+    </customValue>
+    <customValue>
+        <fullName>Redstone</fullName>
+        <default>false</default>
+        <label>Redstone</label>
+    </customValue>
+    <customValue>
+        <fullName>Redwood</fullName>
+        <default>false</default>
+        <label>Redwood</label>
+    </customValue>
+    <customValue>
+        <fullName>Relay Telecom</fullName>
+        <default>false</default>
+        <label>Relay Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Resource Telecom</fullName>
+        <default>false</default>
+        <label>Resource Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Reuters</fullName>
+        <default>false</default>
+        <label>Reuters</label>
+    </customValue>
+    <customValue>
+        <fullName>RHM Telecom</fullName>
+        <default>false</default>
+        <label>RHM Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Ridgeway</fullName>
+        <default>false</default>
+        <label>Ridgeway</label>
+    </customValue>
+    <customValue>
+        <fullName>RingCentral</fullName>
+        <default>false</default>
+        <label>RingCentral</label>
+    </customValue>
+    <customValue>
+        <fullName>ROCOM</fullName>
+        <default>false</default>
+        <label>ROCOM</label>
+    </customValue>
+    <customValue>
+        <fullName>RSL</fullName>
+        <default>false</default>
+        <label>RSL</label>
+    </customValue>
+    <customValue>
+        <fullName>Russell Telecom</fullName>
+        <default>false</default>
+        <label>Russell Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sable</fullName>
+        <default>false</default>
+        <label>Sable</label>
+    </customValue>
+    <customValue>
+        <fullName>Sabre</fullName>
+        <default>false</default>
+        <label>Sabre</label>
+    </customValue>
+    <customValue>
+        <fullName>Samsung</fullName>
+        <default>false</default>
+        <label>Samsung</label>
+    </customValue>
+    <customValue>
+        <fullName>SAS</fullName>
+        <default>false</default>
+        <label>SAS</label>
+    </customValue>
+    <customValue>
+        <fullName>Savant Sage Telecom</fullName>
+        <default>false</default>
+        <label>Savant Sage Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>SCC</fullName>
+        <default>false</default>
+        <label>SCC</label>
+    </customValue>
+    <customValue>
+        <fullName>Scotia</fullName>
+        <default>false</default>
+        <label>Scotia</label>
+    </customValue>
+    <customValue>
+        <fullName>Scotphone</fullName>
+        <default>false</default>
+        <label>Scotphone</label>
+    </customValue>
+    <customValue>
+        <fullName>Scottish Power</fullName>
+        <default>false</default>
+        <label>Scottish Power</label>
+    </customValue>
+    <customValue>
+        <fullName>SDL Communications</fullName>
+        <default>false</default>
+        <label>SDL Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Selection Services</fullName>
+        <default>false</default>
+        <label>Selection Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Service Managed Premises</fullName>
+        <default>false</default>
+        <label>Service Managed Premises</label>
+    </customValue>
+    <customValue>
+        <fullName>Setel</fullName>
+        <default>false</default>
+        <label>Setel</label>
+    </customValue>
+    <customValue>
+        <fullName>Shoretel</fullName>
+        <default>false</default>
+        <label>Shoretel</label>
+    </customValue>
+    <customValue>
+        <fullName>SIA</fullName>
+        <default>false</default>
+        <label>SIA</label>
+    </customValue>
+    <customValue>
+        <fullName>Siemens</fullName>
+        <default>false</default>
+        <label>Siemens</label>
+    </customValue>
+    <customValue>
+        <fullName>Sigman Communications</fullName>
+        <default>false</default>
+        <label>Sigman Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Signal Communications</fullName>
+        <default>false</default>
+        <label>Signal Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Signet</fullName>
+        <default>false</default>
+        <label>Signet</label>
+    </customValue>
+    <customValue>
+        <fullName>Singapore Telecom</fullName>
+        <default>false</default>
+        <label>Singapore Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sintel</fullName>
+        <default>false</default>
+        <label>Sintel</label>
+    </customValue>
+    <customValue>
+        <fullName>Sipcom</fullName>
+        <default>false</default>
+        <label>Sipcom</label>
+    </customValue>
+    <customValue>
+        <fullName>SITA</fullName>
+        <default>false</default>
+        <label>SITA</label>
+    </customValue>
+    <customValue>
+        <fullName>Sky</fullName>
+        <default>false</default>
+        <label>Sky</label>
+    </customValue>
+    <customValue>
+        <fullName>Sky Blue Telecom</fullName>
+        <default>false</default>
+        <label>Sky Blue Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sleek Networks Ltd</fullName>
+        <default>false</default>
+        <label>Sleek Networks Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Smaetcare</fullName>
+        <default>false</default>
+        <label>Smaetcare</label>
+    </customValue>
+    <customValue>
+        <fullName>Smart</fullName>
+        <default>false</default>
+        <label>Smart</label>
+    </customValue>
+    <customValue>
+        <fullName>Smartcall</fullName>
+        <default>false</default>
+        <label>Smartcall</label>
+    </customValue>
+    <customValue>
+        <fullName>Smart Connections</fullName>
+        <default>false</default>
+        <label>Smart Connections</label>
+    </customValue>
+    <customValue>
+        <fullName>Softcat</fullName>
+        <default>false</default>
+        <label>Softcat</label>
+    </customValue>
+    <customValue>
+        <fullName>Soho66</fullName>
+        <default>false</default>
+        <label>Soho66</label>
+    </customValue>
+    <customValue>
+        <fullName>Solar Communications</fullName>
+        <default>false</default>
+        <label>Solar Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Solgari</fullName>
+        <default>false</default>
+        <label>Solgari</label>
+    </customValue>
+    <customValue>
+        <fullName>Sosa</fullName>
+        <default>false</default>
+        <label>Sosa</label>
+    </customValue>
+    <customValue>
+        <fullName>Southern Communications</fullName>
+        <default>false</default>
+        <label>Southern Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Southwest Telecom</fullName>
+        <default>false</default>
+        <label>Southwest Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Spectrum</fullName>
+        <default>false</default>
+        <label>Spectrum</label>
+    </customValue>
+    <customValue>
+        <fullName>Spire Telecom</fullName>
+        <default>false</default>
+        <label>Spire Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Spiritel</fullName>
+        <default>false</default>
+        <label>Spiritel</label>
+    </customValue>
+    <customValue>
+        <fullName>Spitfire</fullName>
+        <default>false</default>
+        <label>Spitfire</label>
+    </customValue>
+    <customValue>
+        <fullName>Sportsclub Telecom</fullName>
+        <default>false</default>
+        <label>Sportsclub Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sprint Ltd T/A SCS</fullName>
+        <default>false</default>
+        <label>Sprint Ltd T/A SCS</label>
+    </customValue>
+    <customValue>
+        <fullName>SSP</fullName>
+        <default>false</default>
+        <label>SSP</label>
+    </customValue>
+    <customValue>
+        <fullName>Starcom</fullName>
+        <default>false</default>
+        <label>Starcom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sterling Communications</fullName>
+        <default>false</default>
+        <label>Sterling Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>STL</fullName>
+        <default>false</default>
+        <label>STL</label>
+    </customValue>
+    <customValue>
+        <fullName>Strategic Solutions</fullName>
+        <default>false</default>
+        <label>Strategic Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Stripe21</fullName>
+        <default>false</default>
+        <label>Stripe21</label>
+    </customValue>
+    <customValue>
+        <fullName>Sunrise</fullName>
+        <default>false</default>
+        <label>Sunrise</label>
+    </customValue>
+    <customValue>
+        <fullName>Supportspan</fullName>
+        <default>false</default>
+        <label>Supportspan</label>
+    </customValue>
+    <customValue>
+        <fullName>Sure Telecom</fullName>
+        <default>false</default>
+        <label>Sure Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Sure VoIP</fullName>
+        <default>false</default>
+        <label>Sure VoIP</label>
+    </customValue>
+    <customValue>
+        <fullName>Swains</fullName>
+        <default>false</default>
+        <label>Swains</label>
+    </customValue>
+    <customValue>
+        <fullName>Sweet Telecom</fullName>
+        <default>false</default>
+        <label>Sweet Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Swift Managed Services</fullName>
+        <default>false</default>
+        <label>Swift Managed Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Swiftnet</fullName>
+        <default>false</default>
+        <label>Swiftnet</label>
+    </customValue>
+    <customValue>
+        <fullName>Switchcom</fullName>
+        <default>false</default>
+        <label>Switchcom</label>
+    </customValue>
+    <customValue>
+        <fullName>Switch Communications</fullName>
+        <default>false</default>
+        <label>Switch Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Symphony</fullName>
+        <default>false</default>
+        <label>Symphony</label>
+    </customValue>
+    <customValue>
+        <fullName>Synergy</fullName>
+        <default>false</default>
+        <label>Synergy</label>
+    </customValue>
+    <customValue>
+        <fullName>T2K</fullName>
+        <default>false</default>
+        <label>T2K</label>
+    </customValue>
+    <customValue>
+        <fullName>Talking Technology</fullName>
+        <default>false</default>
+        <label>Talking Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>Talk Plus</fullName>
+        <default>false</default>
+        <label>Talk Plus</label>
+    </customValue>
+    <customValue>
+        <fullName>Talk Talk</fullName>
+        <default>false</default>
+        <label>Talk Talk</label>
+    </customValue>
+    <customValue>
+        <fullName>TalkTalk Business</fullName>
+        <default>false</default>
+        <label>TalkTalk Business</label>
+    </customValue>
+    <customValue>
+        <fullName>Talk Talk Group PLC</fullName>
+        <default>false</default>
+        <label>Talk Talk Group PLC</label>
+    </customValue>
+    <customValue>
+        <fullName>Tariff Reduction Services</fullName>
+        <default>false</default>
+        <label>Tariff Reduction Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Tata</fullName>
+        <default>false</default>
+        <label>Tata</label>
+    </customValue>
+    <customValue>
+        <fullName>Tate</fullName>
+        <default>false</default>
+        <label>Tate</label>
+    </customValue>
+    <customValue>
+        <fullName>TCM</fullName>
+        <default>false</default>
+        <label>TCM</label>
+    </customValue>
+    <customValue>
+        <fullName>TDL</fullName>
+        <default>false</default>
+        <label>TDL</label>
+    </customValue>
+    <customValue>
+        <fullName>Telappliant</fullName>
+        <default>false</default>
+        <label>Telappliant</label>
+    </customValue>
+    <customValue>
+        <fullName>Telco</fullName>
+        <default>false</default>
+        <label>Telco</label>
+    </customValue>
+    <customValue>
+        <fullName>Telcoswitch</fullName>
+        <default>false</default>
+        <label>Telcoswitch</label>
+    </customValue>
+    <customValue>
+        <fullName>TeleCall</fullName>
+        <default>false</default>
+        <label>TeleCall</label>
+    </customValue>
+    <customValue>
+        <fullName>Telecom 2000</fullName>
+        <default>false</default>
+        <label>Telecom 2000</label>
+    </customValue>
+    <customValue>
+        <fullName>Telecom Green</fullName>
+        <default>false</default>
+        <label>Telecom Green</label>
+    </customValue>
+    <customValue>
+        <fullName>Telecom Plus</fullName>
+        <default>false</default>
+        <label>Telecom Plus</label>
+    </customValue>
+    <customValue>
+        <fullName>Telecoms Direct</fullName>
+        <default>false</default>
+        <label>Telecoms Direct</label>
+    </customValue>
+    <customValue>
+        <fullName>Telecoms World</fullName>
+        <default>false</default>
+        <label>Telecoms World</label>
+    </customValue>
+    <customValue>
+        <fullName>Teleconnect</fullName>
+        <default>false</default>
+        <label>Teleconnect</label>
+    </customValue>
+    <customValue>
+        <fullName>Teleconsortium</fullName>
+        <default>false</default>
+        <label>Teleconsortium</label>
+    </customValue>
+    <customValue>
+        <fullName>Telemar</fullName>
+        <default>false</default>
+        <label>Telemar</label>
+    </customValue>
+    <customValue>
+        <fullName>Telenet</fullName>
+        <default>false</default>
+        <label>Telenet</label>
+    </customValue>
+    <customValue>
+        <fullName>Telephone Co-Op</fullName>
+        <default>false</default>
+        <label>Telephone Co-Op</label>
+    </customValue>
+    <customValue>
+        <fullName>Telequip</fullName>
+        <default>false</default>
+        <label>Telequip</label>
+    </customValue>
+    <customValue>
+        <fullName>Teleware</fullName>
+        <default>false</default>
+        <label>Teleware</label>
+    </customValue>
+    <customValue>
+        <fullName>Telewest</fullName>
+        <default>false</default>
+        <label>Telewest</label>
+    </customValue>
+    <customValue>
+        <fullName>Telia</fullName>
+        <default>false</default>
+        <label>Telia</label>
+    </customValue>
+    <customValue>
+        <fullName>Teliqo</fullName>
+        <default>false</default>
+        <label>Teliqo</label>
+    </customValue>
+    <customValue>
+        <fullName>Telstra</fullName>
+        <default>false</default>
+        <label>Telstra</label>
+    </customValue>
+    <customValue>
+        <fullName>The Voice Factory</fullName>
+        <default>false</default>
+        <label>The Voice Factory</label>
+    </customValue>
+    <customValue>
+        <fullName>The Word Telecom</fullName>
+        <default>false</default>
+        <label>The Word Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Third Party Broker</fullName>
+        <default>false</default>
+        <label>Third Party Broker</label>
+    </customValue>
+    <customValue>
+        <fullName>Thistle Communications</fullName>
+        <default>false</default>
+        <label>Thistle Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Thornton Communications</fullName>
+        <default>false</default>
+        <label>Thornton Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Thus</fullName>
+        <default>false</default>
+        <label>Thus</label>
+    </customValue>
+    <customValue>
+        <fullName>Time Communications</fullName>
+        <default>false</default>
+        <label>Time Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Timico</fullName>
+        <default>false</default>
+        <label>Timico</label>
+    </customValue>
+    <customValue>
+        <fullName>Tiscali</fullName>
+        <default>false</default>
+        <label>Tiscali</label>
+    </customValue>
+    <customValue>
+        <fullName>Titan</fullName>
+        <default>false</default>
+        <label>Titan</label>
+    </customValue>
+    <customValue>
+        <fullName>TML</fullName>
+        <default>false</default>
+        <label>TML</label>
+    </customValue>
+    <customValue>
+        <fullName>TML (via Link Telecom)</fullName>
+        <default>false</default>
+        <label>TML (via Link Telecom)</label>
+    </customValue>
+    <customValue>
+        <fullName>T-Mobile</fullName>
+        <default>false</default>
+        <label>T-Mobile</label>
+    </customValue>
+    <customValue>
+        <fullName>TMS Supplies</fullName>
+        <default>false</default>
+        <label>TMS Supplies</label>
+    </customValue>
+    <customValue>
+        <fullName>TNS</fullName>
+        <default>false</default>
+        <label>TNS</label>
+    </customValue>
+    <customValue>
+        <fullName>Top Communications Ltd</fullName>
+        <default>false</default>
+        <label>Top Communications Ltd</label>
+    </customValue>
+    <customValue>
+        <fullName>Torch</fullName>
+        <default>false</default>
+        <label>Torch</label>
+    </customValue>
+    <customValue>
+        <fullName>Total Telecoms</fullName>
+        <default>false</default>
+        <label>Total Telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Touchbase</fullName>
+        <default>false</default>
+        <label>Touchbase</label>
+    </customValue>
+    <customValue>
+        <fullName>Touch Europe</fullName>
+        <default>false</default>
+        <label>Touch Europe</label>
+    </customValue>
+    <customValue>
+        <fullName>Touch Partner</fullName>
+        <default>false</default>
+        <label>Touch Partner</label>
+    </customValue>
+    <customValue>
+        <fullName>Townley Network Solutions</fullName>
+        <default>false</default>
+        <label>Townley Network Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>Transglobal</fullName>
+        <default>false</default>
+        <label>Transglobal</label>
+    </customValue>
+    <customValue>
+        <fullName>Triangle</fullName>
+        <default>false</default>
+        <label>Triangle</label>
+    </customValue>
+    <customValue>
+        <fullName>Trojan</fullName>
+        <default>false</default>
+        <label>Trojan</label>
+    </customValue>
+    <customValue>
+        <fullName>TSI</fullName>
+        <default>false</default>
+        <label>TSI</label>
+    </customValue>
+    <customValue>
+        <fullName>T Systems</fullName>
+        <default>false</default>
+        <label>T Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>TTC</fullName>
+        <default>false</default>
+        <label>TTC</label>
+    </customValue>
+    <customValue>
+        <fullName>Twang</fullName>
+        <default>false</default>
+        <label>Twang</label>
+    </customValue>
+    <customValue>
+        <fullName>TWL Comms</fullName>
+        <default>false</default>
+        <label>TWL Comms</label>
+    </customValue>
+    <customValue>
+        <fullName>Two Circles</fullName>
+        <default>false</default>
+        <label>Two Circles</label>
+    </customValue>
+    <customValue>
+        <fullName>UK Telco</fullName>
+        <default>false</default>
+        <label>UK Telco</label>
+    </customValue>
+    <customValue>
+        <fullName>Unicom</fullName>
+        <default>false</default>
+        <label>Unicom</label>
+    </customValue>
+    <customValue>
+        <fullName>Universal Telecom</fullName>
+        <default>false</default>
+        <label>Universal Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Uniworld</fullName>
+        <default>false</default>
+        <label>Uniworld</label>
+    </customValue>
+    <customValue>
+        <fullName>UPDATA</fullName>
+        <default>false</default>
+        <label>UPDATA</label>
+    </customValue>
+    <customValue>
+        <fullName>UWT</fullName>
+        <default>false</default>
+        <label>UWT</label>
+    </customValue>
+    <customValue>
+        <fullName>V12 Telecom</fullName>
+        <default>false</default>
+        <label>V12 Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Vaioni</fullName>
+        <default>false</default>
+        <label>Vaioni</label>
+    </customValue>
+    <customValue>
+        <fullName>Vanco</fullName>
+        <default>false</default>
+        <label>Vanco</label>
+    </customValue>
+    <customValue>
+        <fullName>Vanilla IP</fullName>
+        <default>false</default>
+        <label>Vanilla IP</label>
+    </customValue>
+    <customValue>
+        <fullName>Vartec</fullName>
+        <default>false</default>
+        <label>Vartec</label>
+    </customValue>
+    <customValue>
+        <fullName>Velofone</fullName>
+        <default>false</default>
+        <label>Velofone</label>
+    </customValue>
+    <customValue>
+        <fullName>Ventelo</fullName>
+        <default>false</default>
+        <label>Ventelo</label>
+    </customValue>
+    <customValue>
+        <fullName>Venture telecoms</fullName>
+        <default>false</default>
+        <label>Venture telecoms</label>
+    </customValue>
+    <customValue>
+        <fullName>Venus</fullName>
+        <default>false</default>
+        <label>Venus</label>
+    </customValue>
+    <customValue>
+        <fullName>Verizon</fullName>
+        <default>false</default>
+        <label>Verizon</label>
+    </customValue>
+    <customValue>
+        <fullName>Verizon Business</fullName>
+        <default>false</default>
+        <label>Verizon Business</label>
+    </customValue>
+    <customValue>
+        <fullName>Vialtus</fullName>
+        <default>false</default>
+        <label>Vialtus</label>
+    </customValue>
+    <customValue>
+        <fullName>VIA NET.WORKS</fullName>
+        <default>false</default>
+        <label>VIA NET.WORKS</label>
+    </customValue>
+    <customValue>
+        <fullName>Viatel</fullName>
+        <default>false</default>
+        <label>Viatel</label>
+    </customValue>
+    <customValue>
+        <fullName>VIP COMMS</fullName>
+        <default>false</default>
+        <label>VIP COMMS</label>
+    </customValue>
+    <customValue>
+        <fullName>Virgin</fullName>
+        <default>false</default>
+        <label>Virgin</label>
+    </customValue>
+    <customValue>
+        <fullName>Virgin Media Business</fullName>
+        <default>false</default>
+        <label>Virgin Media Business</label>
+    </customValue>
+    <customValue>
+        <fullName>Virocom</fullName>
+        <default>false</default>
+        <label>Virocom</label>
+    </customValue>
+    <customValue>
+        <fullName>Virtella</fullName>
+        <default>false</default>
+        <label>Virtella</label>
+    </customValue>
+    <customValue>
+        <fullName>Vital</fullName>
+        <default>false</default>
+        <label>Vital</label>
+    </customValue>
+    <customValue>
+        <fullName>V Networks</fullName>
+        <default>false</default>
+        <label>V Networks</label>
+    </customValue>
+    <customValue>
+        <fullName>Vodafone</fullName>
+        <default>false</default>
+        <label>Vodafone</label>
+    </customValue>
+    <customValue>
+        <fullName>Vodat</fullName>
+        <default>false</default>
+        <label>Vodat</label>
+    </customValue>
+    <customValue>
+        <fullName>Voiceflex</fullName>
+        <default>false</default>
+        <label>Voiceflex</label>
+    </customValue>
+    <customValue>
+        <fullName>Voicehost</fullName>
+        <default>false</default>
+        <label>Voicehost</label>
+    </customValue>
+    <customValue>
+        <fullName>Voicenet</fullName>
+        <default>false</default>
+        <label>Voicenet</label>
+    </customValue>
+    <customValue>
+        <fullName>Voipfone</fullName>
+        <default>false</default>
+        <label>Voipfone</label>
+    </customValue>
+    <customValue>
+        <fullName>VoIPlicity</fullName>
+        <default>false</default>
+        <label>VoIPlicity</label>
+    </customValue>
+    <customValue>
+        <fullName>VoIPStudio</fullName>
+        <default>false</default>
+        <label>VoIPStudio</label>
+    </customValue>
+    <customValue>
+        <fullName>VOIP Unlimited</fullName>
+        <default>false</default>
+        <label>VOIP Unlimited</label>
+    </customValue>
+    <customValue>
+        <fullName>Vonage</fullName>
+        <default>false</default>
+        <label>Vonage</label>
+    </customValue>
+    <customValue>
+        <fullName>Vostel</fullName>
+        <default>false</default>
+        <label>Vostel</label>
+    </customValue>
+    <customValue>
+        <fullName>Vostron</fullName>
+        <default>false</default>
+        <label>Vostron</label>
+    </customValue>
+    <customValue>
+        <fullName>Voxalis</fullName>
+        <default>false</default>
+        <label>Voxalis</label>
+    </customValue>
+    <customValue>
+        <fullName>Voxhub</fullName>
+        <default>false</default>
+        <label>Voxhub</label>
+    </customValue>
+    <customValue>
+        <fullName>VTSL</fullName>
+        <default>false</default>
+        <label>VTSL</label>
+    </customValue>
+    <customValue>
+        <fullName>Wavenet</fullName>
+        <default>false</default>
+        <label>Wavenet</label>
+    </customValue>
+    <customValue>
+        <fullName>Wavex</fullName>
+        <default>false</default>
+        <label>Wavex</label>
+    </customValue>
+    <customValue>
+        <fullName>Welcome Facilities</fullName>
+        <default>false</default>
+        <label>Welcome Facilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Welcome Utilities</fullName>
+        <default>false</default>
+        <label>Welcome Utilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Weston Group</fullName>
+        <default>false</default>
+        <label>Weston Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Wireless Communications</fullName>
+        <default>false</default>
+        <label>Wireless Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Wireless Telecommunications</fullName>
+        <default>false</default>
+        <label>Wireless Telecommunications</label>
+    </customValue>
+    <customValue>
+        <fullName>Wisdom Telecom</fullName>
+        <default>false</default>
+        <label>Wisdom Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Worksmart Technology</fullName>
+        <default>false</default>
+        <label>Worksmart Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>World Connect</fullName>
+        <default>false</default>
+        <label>World Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>worldnet</fullName>
+        <default>false</default>
+        <label>worldnet</label>
+    </customValue>
+    <customValue>
+        <fullName>WORLDWIDE GROUP LTD</fullName>
+        <default>false</default>
+        <label>WORLDWIDE GROUP LTD</label>
+    </customValue>
+    <customValue>
+        <fullName>XLN</fullName>
+        <default>false</default>
+        <label>XLN</label>
+    </customValue>
+    <customValue>
+        <fullName>Xtel Europe</fullName>
+        <default>false</default>
+        <label>Xtel Europe</label>
+    </customValue>
+    <customValue>
+        <fullName>Yes Telecom</fullName>
+        <default>false</default>
+        <label>Yes Telecom</label>
+    </customValue>
+    <customValue>
+        <fullName>Yorkshire Cable</fullName>
+        <default>false</default>
+        <label>Yorkshire Cable</label>
+    </customValue>
+    <customValue>
+        <fullName>Your Communications</fullName>
+        <default>false</default>
+        <label>Your Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>Zen</fullName>
+        <default>false</default>
+        <label>Zen</label>
+    </customValue>
+    <customValue>
+        <fullName>Zipcom</fullName>
+        <default>false</default>
+        <label>Zipcom</label>
+    </customValue>
+    <description>BTLB Opportunity &amp; Lead attribute.If the value &quot;To competitor&quot; is selected from the field &quot;Sub Stage&quot; then this field becomes mandatory</description>
+    <masterLabel>Main Competitor</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

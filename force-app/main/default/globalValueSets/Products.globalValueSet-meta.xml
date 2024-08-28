@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>BTMobile</fullName>
+        <default>false</default>
+        <label>BTMobile</label>
+    </customValue>
+    <customValue>
+        <fullName>EE One Plan</fullName>
+        <default>false</default>
+        <label>EE One Plan</label>
+    </customValue>
+    <customValue>
+        <fullName>BTOP</fullName>
+        <default>false</default>
+        <label>BTOP</label>
+    </customValue>
+    <customValue>
+        <fullName>EE</fullName>
+        <default>false</default>
+        <label>EE</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Cloud Phone</fullName>
+        <default>false</default>
+        <label>BT Cloud Phone</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Work</fullName>
+        <default>false</default>
+        <label>Cloud Work</label>
+    </customValue>
+    <customValue>
+        <fullName>MiCloud</fullName>
+        <default>false</default>
+        <label>MiCloud</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Cloud Voice</fullName>
+        <default>false</default>
+        <label>BT Cloud Voice</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice Express</fullName>
+        <default>false</default>
+        <label>Cloud Voice Express</label>
+    </customValue>
+    <customValue>
+        <fullName>Calls &amp; Lines</fullName>
+        <default>false</default>
+        <label>Calls &amp; Lines</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice SIP</fullName>
+        <default>false</default>
+        <label>Cloud Voice SIP</label>
+    </customValue>
+    <customValue>
+        <fullName>PBX &amp; Maintenance</fullName>
+        <default>false</default>
+        <label>PBX &amp; Maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Broadband</fullName>
+        <default>false</default>
+        <label>Broadband</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Managed WAN</fullName>
+        <default>false</default>
+        <label>BT Managed WAN</label>
+    </customValue>
+    <customValue>
+        <fullName>Ethernet Connect</fullName>
+        <default>false</default>
+        <label>Ethernet Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>BTnet</fullName>
+        <default>false</default>
+        <label>BTnet</label>
+    </customValue>
+    <customValue>
+        <fullName>Hybrid Connect</fullName>
+        <default>false</default>
+        <label>Hybrid Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>ICT 3rd Party</fullName>
+        <default>false</default>
+        <label>ICT 3rd Party</label>
+    </customValue>
+    <customValue>
+        <fullName>3rd Party Maintenance</fullName>
+        <default>false</default>
+        <label>3rd Party Maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Miscellaneous</fullName>
+        <default>false</default>
+        <label>Miscellaneous</label>
+    </customValue>
+    <customValue>
+        <fullName>Website Builder</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Website Builder</label>
+    </customValue>
+    <customValue>
+        <fullName>Switch</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Switch</label>
+    </customValue>
+    <customValue>
+        <fullName>Service Self-Fulfil</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Service Self-Fulfil</label>
+    </customValue>
+    <customValue>
+        <fullName>Omega Self-Fulfil</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Omega Self-Fulfil</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile Self Fulfil</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile Self Fulfil</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile 5+</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile 5+</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile 1-4</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile 1-4</label>
+    </customValue>
+    <customValue>
+        <fullName>Lines</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Lines</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Networking</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Data Networking</label>
+    </customValue>
+    <customValue>
+        <fullName>ISDN</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>ISDN</label>
+    </customValue>
+    <customValue>
+        <fullName>Product Not Listed</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Product Not Listed</label>
+    </customValue>
+    <customValue>
+        <fullName>MiCloud - License</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>MiCloud - License</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Net</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>BT Net</label>
+    </customValue>
+    <customValue>
+        <fullName>MDM</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>MDM</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile Data Upsell</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile Data Upsell</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobility Propositions</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobility Propositions</label>
+    </customValue>
+    <customValue>
+        <fullName>MS 365</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>MS 365</label>
+    </customValue>
+    <customValue>
+        <fullName>CPE</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>CPE</label>
+    </customValue>
+    <customValue>
+        <fullName>Inbound Services</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Inbound Services</label>
+    </customValue>
+    <customValue>
+        <fullName>CISCO</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>CISCO</label>
+    </customValue>
+    <customValue>
+        <fullName>Professional Services</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Professional Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Switches</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Switches</label>
+    </customValue>
+    <customValue>
+        <fullName>OnePhone</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>OnePhone</label>
+    </customValue>
+    <customValue>
+        <fullName>Teams Voice</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Teams Voice</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Direct</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Business Direct</label>
+    </customValue>
+    <customValue>
+        <fullName>Internet Connect Global</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Internet Connect Global</label>
+    </customValue>
+    <customValue>
+        <fullName>Short Haul Data Services (SHDS)</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Short Haul Data Services (SHDS)</label>
+    </customValue>
+    <customValue>
+        <fullName>IP Connect</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>IP Connect</label>
+    </customValue>
+    <customValue>
+        <fullName>SD-WAN</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SD-WAN</label>
+    </customValue>
+    <customValue>
+        <fullName>One Voice SIP</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>One Voice SIP</label>
+    </customValue>
+    <customValue>
+        <fullName>Fortinet Managed Firewall</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Fortinet Managed Firewall</label>
+    </customValue>
+    <description>Product Type</description>
+    <masterLabel>Products</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
