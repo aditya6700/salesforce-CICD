@@ -61,14 +61,14 @@ jobs:
       - name: 'Deploy delta changes - run specified tests'
         run: |
           if [ "${{ secrets.APEX_TESTS }}" != "all" ]; then
-            sfdx force:source:deploy -p "changed-sources/force-app" --testlevel RunSpecifiedTests --runtests ${{ secrets.APEX_TESTS }} --json
+            sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunSpecifiedTests --runtests ${{secrets.APEX_TESTS}} --json
           fi
 
       # If the APEX_TESTS secret equals 'all', run all tests
       - name: 'Deploy delta changes - run all tests'
         run: |
           if [ "${{ secrets.APEX_TESTS }}" == "all" ]; then
-            sfdx force:source:deploy -p "changed-sources/force-app" --testlevel RunLocalTests --json
+            sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunLocalTests  --json
           fi
 
       # Step 7: Run Destructive changes
