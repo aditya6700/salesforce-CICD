@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Mobile</fullName>
+        <default>false</default>
+        <label>Mobile</label>
+    </customValue>
+    <customValue>
+        <fullName>Voice</fullName>
+        <default>false</default>
+        <label>Voice</label>
+    </customValue>
+    <customValue>
+        <fullName>Connectivity</fullName>
+        <default>false</default>
+        <label>Connectivity</label>
+    </customValue>
+    <customValue>
+        <fullName>3rd Party ICT/Maintenance</fullName>
+        <default>false</default>
+        <label>3rd Party ICT/Maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Miscellaneous</fullName>
+        <default>false</default>
+        <label>Miscellaneous</label>
+    </customValue>
+    <customValue>
+        <fullName>Product Not Listed</fullName>
+        <default>false</default>
+        <label>Product Not Listed</label>
+    </customValue>
+    <customValue>
+        <fullName>Customer Considering Leaving BT</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Customer Considering Leaving BT</label>
+    </customValue>
+    <customValue>
+        <fullName>Lines maintenance</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Lines maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Broadband new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Broadband new</label>
+    </customValue>
+    <customValue>
+        <fullName>Resign</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Resign</label>
+    </customValue>
+    <customValue>
+        <fullName>Superfast new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Superfast new</label>
+    </customValue>
+    <customValue>
+        <fullName>Ultrafast new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Ultrafast new</label>
+    </customValue>
+    <customValue>
+        <fullName>Upgrade to Superfast</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Upgrade to Superfast</label>
+    </customValue>
+    <customValue>
+        <fullName>Upgrade to Ultrafast</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Upgrade to Ultrafast</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Phone new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Phone new</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Phone Redesign</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Phone Redesign</label>
+    </customValue>
+    <customValue>
+        <fullName>Additional licences / cloud call packages</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Additional licences / cloud call packages</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Voice new</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice resign</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Voice resign</label>
+    </customValue>
+    <customValue>
+        <fullName>BT Net Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>BT Net Security</label>
+    </customValue>
+    <customValue>
+        <fullName>New BT Net</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>New BT Net</label>
+    </customValue>
+    <customValue>
+        <fullName>Upgrade,change or resign BT Net</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Upgrade,change or resign BT Net</label>
+    </customValue>
+    <customValue>
+        <fullName>Add Add-On</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Add Add-On</label>
+    </customValue>
+    <customValue>
+        <fullName>Add Engineer Install</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Add Engineer Install</label>
+    </customValue>
+    <customValue>
+        <fullName>Add Users</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Add Users</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Work New</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Work New</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Work Resign</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Work Resign</label>
+    </customValue>
+    <customValue>
+        <fullName>Licence Upgrade</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Licence Upgrade</label>
+    </customValue>
+    <customValue>
+        <fullName>Wan,Lan,IP connect, all Ethernet, all Etherflow, all MPLS</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Wan,Lan,IP connect, all Ethernet, all Etherflow, all MPLS</label>
+    </customValue>
+    <customValue>
+        <fullName>All ISDN products</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>All ISDN products</label>
+    </customValue>
+    <customValue>
+        <fullName>Additional PSTN Lines</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Additional PSTN Lines</label>
+    </customValue>
+    <customValue>
+        <fullName>Line maintenance</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Line maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile new</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile new</label>
+    </customValue>
+    <customValue>
+        <fullName>New Switch</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>New Switch</label>
+    </customValue>
+    <customValue>
+        <fullName>Resign/Upgrade</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Resign/Upgrade</label>
+    </customValue>
+    <customValue>
+        <fullName>Onephone New</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Onephone New</label>
+    </customValue>
+    <customValue>
+        <fullName>Add-on (Bolt-on)</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Add-on (Bolt-on)</label>
+    </customValue>
+    <customValue>
+        <fullName>Handset only</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Handset only</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile Broadband</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Mobile Broadband</label>
+    </customValue>
+    <customValue>
+        <fullName>Sim card only</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Sim card only</label>
+    </customValue>
+    <customValue>
+        <fullName>Tariff</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Tariff</label>
+    </customValue>
+    <customValue>
+        <fullName>Omega Bundle</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Omega Bundle</label>
+    </customValue>
+    <customValue>
+        <fullName>ALL VAS Products</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>ALL VAS Products</label>
+    </customValue>
+    <customValue>
+        <fullName>Amendment BTLB</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Amendment BTLB</label>
+    </customValue>
+    <customValue>
+        <fullName>Amendment Corporate</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Amendment Corporate</label>
+    </customValue>
+    <customValue>
+        <fullName>Amendment Desk Sales</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Amendment Desk Sales</label>
+    </customValue>
+    <customValue>
+        <fullName>Broadband Resign</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Broadband Resign</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice add on&apos;s within thresholds of £100</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Voice add on&apos;s within thresholds of £100</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Voice add on&apos;s within thresholds of £1000</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Voice add on&apos;s within thresholds of £1000</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Work Additional Users</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Work Additional Users</label>
+    </customValue>
+    <customValue>
+        <fullName>Cloud Work Add-Ons</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Cloud Work Add-Ons</label>
+    </customValue>
+    <customValue>
+        <fullName>Critical Care (PSTN, Featureline, ISDN2) per line</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Critical Care (PSTN, Featureline, ISDN2) per line</label>
+    </customValue>
+    <customValue>
+        <fullName>PC Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>PC Security</label>
+    </customValue>
+    <customValue>
+        <fullName>Showcase</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Showcase</label>
+    </customValue>
+    <customValue>
+        <fullName>Switch Aux - Service Self-fulfil</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Switch Aux - Service Self-fulfil</label>
+    </customValue>
+    <customValue>
+        <fullName>Upgrade to Fibre</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Upgrade to Fibre</label>
+    </customValue>
+    <customValue>
+        <fullName>Web hosting</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Web hosting</label>
+    </customValue>
+    <customValue>
+        <fullName>Switch add-ons</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Switch add-ons</label>
+    </customValue>
+    <customValue>
+        <fullName>Website Builder</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Website Builder</label>
+    </customValue>
+    <customValue>
+        <fullName>Wan</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Wan</label>
+    </customValue>
+    <customValue>
+        <fullName>Lan</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Lan</label>
+    </customValue>
+    <customValue>
+        <fullName>IP connect</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>IP connect</label>
+    </customValue>
+    <customValue>
+        <fullName>all Ethernet</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>all Ethernet</label>
+    </customValue>
+    <customValue>
+        <fullName>all Etherflow</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>all Etherflow</label>
+    </customValue>
+    <customValue>
+        <fullName>all MPLS</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>all MPLS</label>
+    </customValue>
+    <customValue>
+        <fullName>Broadband Hardware</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Broadband Hardware</label>
+    </customValue>
+    <description>Product Category</description>
+    <masterLabel>Category</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
