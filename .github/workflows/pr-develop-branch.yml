@@ -39,9 +39,13 @@ jobs:
           sfdx plugins
 
       # Step 4: Authenticate with the Salesforce org using the SFDX URL directly
+      - name: 'Store SFDX Auth URL in a file'
+        run: |
+          echo ${{ secrets.SFDX_AUTH_URL }} > ./sfdx-auth-url.txt
+
       - name: 'Authenticate to Dev Org'
         run: |
-          echo $SFDX_AUTH_URL | sfdx auth:sfdxurl:store --setdefaultusername --setalias dev-org
+          sfdx auth:sfdxurl:store --sfdx-url-file ./sfdx-auth-url.txt --setdefaultusername --setalias dev-org
 
        # Step 5: Create delta package using sfdx-git-delta pulgin
       - name: 'Create delta packages for new, modified or deleted metadata'
