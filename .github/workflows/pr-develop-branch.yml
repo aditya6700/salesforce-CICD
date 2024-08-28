@@ -57,17 +57,19 @@ jobs:
 
       # Step 6: Deploy the metadata to the Salesforce org
       # If the secrets variable does not equal 'all' run specified tests 
-      - name: 'Check-only deploy delta changes - run specified tests'
-        if: ${{ secrets.APEX_TESTS != 'all' }}
+      # If the APEX_TESTS secret does not equal 'all' run specified tests 
+      - name: 'Deploy delta changes - run specified tests'
         run: |
-          echo ${{secrets.APEX_TESTS}}
-          sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunSpecifiedTests --runtests ${{secrets.APEX_TESTS}} --json
+          if [ "${{ secrets.APEX_TESTS }}" != "all" ]; then
+            sfdx force:source:deploy -p "changed-sources/force-app" --testlevel RunSpecifiedTests --runtests ${{ secrets.APEX_TESTS }} --json
+          fi
 
-      # If the secrets variable equals all, we run all tests
-      - name: 'Check-only deploy delta changes - run all tests'
-        if: ${{ secrets.APEX_TESTS == 'all' }}
+      # If the APEX_TESTS secret equals 'all', run all tests
+      - name: 'Deploy delta changes - run all tests'
         run: |
-            sfdx force:source:deploy -p "changed-sources/force-app" --checkonly --testlevel RunLocalTests  --json
+          if [ "${{ secrets.APEX_TESTS }}" == "all" ]; then
+            sfdx force:source:deploy -p "changed-sources/force-app" --testlevel RunLocalTests --json
+          fi
 
       # Step 7: Run Destructive changes
       - name: 'Deploy destructive changes (if any)'
